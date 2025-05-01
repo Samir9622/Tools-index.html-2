@@ -69,8 +69,8 @@
   </style>
 </head>
 <body>
-  <div class="container">ca-app-pub-8773480799818158/9354903383
-    <h1>Image Compression Tool</h1>app-pub-8773480799818158/9055111364
+  <div class="container">ca-app-pub-8773480799818158/5072843171
+    <h1>Image Compression Tool</h1>app-pub-8773480799818158/5072843171
     <div class="upload-box" id="upload-area">
       <input type="file" id="upload" accept="image/*" hidden />
       <label for="upload" class="upload-label">Click or drag an image here to upload</label>
