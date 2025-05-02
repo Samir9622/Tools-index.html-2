@@ -69,7 +69,7 @@
   </style>
 </head>
 <body>
-  <div class="container">ca-pub-8773480799818158/5072843171
+  <div class="container">ca-pub-8773480799818158/5041129567
     <h1>Image Compression Tool</h1>ca-pub-8773480799818158/5072843171
     <div class="upload-box" id="upload-area">
       <input type="file" id="upload" accept="image/*" hidden />
